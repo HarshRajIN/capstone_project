@@ -233,7 +233,7 @@ Please ensure your code adheres to the project's coding standards and includes r
 
 ## :balance_scale: License
 
-No license information was found in the repository. It is recommended to choose an open-source license (e.g., MIT, Apache 2.0) to clarify usage rights.
+None
 
 ## :link: Important Links
 
